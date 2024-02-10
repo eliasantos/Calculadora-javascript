@@ -1,6 +1,6 @@
 let runningTotal = 0;
 let buffer = '0'; 
-let previousOperator = null; // Corrigido para inicializar como null
+let previousOperator = null; 
 
 const screen = document.querySelector('.screen');
 

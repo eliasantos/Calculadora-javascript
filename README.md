@@ -3,4 +3,4 @@
 </p>
 
 
-![calculadora](https://github.com/eliasantos/Calculadora-javascript/assets/102817742/5ffc23ea-58ca-4625-b1cd-2647d28ca12e)
+<div align="center">![calculadora](https://github.com/eliasantos/Calculadora-javascript/assets/102817742/5ffc23ea-58ca-4625-b1cd-2647d28ca12e)</div>
